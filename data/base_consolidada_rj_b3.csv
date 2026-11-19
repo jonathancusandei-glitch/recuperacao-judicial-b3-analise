@@ -1,0 +1,151 @@
+Empresa;Ticker;Data_RJ;Conta_ou_Indicador;Unidade;2022;2023;2024;2025;Var_22_23_%;Var_23_24_%;Var_24_25_%;Observacao_Tecnica
+Atma S.A.;ATMP3;08/06/2022;Ativo Circulante (AC);R$ milhões;245,10;212,40;238,50;218,30;-13,34%;12,29%;-8,47%;Balanço Patrimonial Consolidado
+Atma S.A.;ATMP3;08/06/2022;Caixa e Equivalentes de Caixa;R$ milhões;48,20;35,60;42,10;39,80;-26,14%;18,26%;-5,46%;Disponibilidades imediatas
+Atma S.A.;ATMP3;08/06/2022;Realizável a Longo Prazo (RLP);R$ milhões;310,40;285,10;412,30;315,60;-8,15%;44,62%;-23,45%;Créditos e tributos a recuperar LP
+Atma S.A.;ATMP3;08/06/2022;Ativo Permanente (Imob + Intang + Inv);R$ milhões;624,50;612,50;789,20;646,10;-1,92%;28,85%;-18,13%;Ativo Não Circulante Permanente
+Atma S.A.;ATMP3;08/06/2022;Ativo Total (AT);R$ milhões;1180,00;1110,00;1440,00;1180,00;-5,93%;29,73%;-18,06%;AT = AC + RLP + Permanente
+Atma S.A.;ATMP3;08/06/2022;Passivo Circulante (PC);R$ milhões;580,20;410,50;695,40;512,80;-29,25%;69,40%;-26,26%;Redução em 2023 pós-homologação PRJ
+Atma S.A.;ATMP3;08/06/2022;Fornecedores;R$ milhões;84,50;62,30;78,90;65,40;-26,27%;26,65%;-17,11%;Fornecedores operacionais CP
+Atma S.A.;ATMP3;08/06/2022;Passivo Não Circulante (PNC);R$ milhões;899,80;409,50;1043,60;552,30;-54,49%;154,85%;-47,08%;Dívidas concursais alongadas e provisões
+Atma S.A.;ATMP3;08/06/2022;Empréstimos e Financiamentos (CP + LP);R$ milhões;695,00;318,40;540,20;412,60;-54,19%;69,66%;-23,62%;Dívida bruta reestruturada
+Atma S.A.;ATMP3;08/06/2022;Passivo Total Exigível (PT = PC + PNC);R$ milhões;1480,00;820,00;1739,00;1065,10;-44,59%;112,07%;-38,75%;Total de obrigações com terceiros
+Atma S.A.;ATMP3;08/06/2022;Patrimônio Líquido (PL);R$ milhões;-300,00;290,00;-299,00;114,90;-196,67%;-203,10%;-138,43%;Passivo a descoberto em 2022 e 2024
+Atma S.A.;ATMP3;08/06/2022;Receita Líquida (RL);R$ milhões;392,50;308,00;352,40;447,20;-21,53%;14,42%;26,90%;Faturamento líquido anual
+Atma S.A.;ATMP3;08/06/2022;Resultado Operacional (EBIT);R$ milhões;-98,40;185,20;-142,60;-12,40;-288,21%;-177,00%;-91,30%;2023 impactado por deságio do PRJ
+Atma S.A.;ATMP3;08/06/2022;EBITDA (LAJIDA);R$ milhões;-54,20;-18,50;7,35;29,60;-65,87%;-139,73%;302,72%;Recuperação operacional em 2024 e 2025
+Atma S.A.;ATMP3;08/06/2022;Despesas Financeiras Líquidas;R$ milhões;-145,80;-92,40;-168,50;-74,20;-36,63%;82,36%;-55,96%;Encargos de dívida e atualização
+Atma S.A.;ATMP3;08/06/2022;Lucro / Prejuízo Líquido (LL);R$ milhões;-248,60;88,40;-312,50;-86,80;-135,56%;-453,51%;-72,22%;Resultado líquido do exercício
+Atma S.A.;ATMP3;08/06/2022;Liquidez Corrente (LC = AC / PC);Índice (x);0,42;0,52;0,34;0,43;22,60%;-33,73%;24,13%;Abaixo de 1,00 em todo o período
+Atma S.A.;ATMP3;08/06/2022;Liquidez Geral (LG = (AC+RLP)/(PC+PNC));Índice (x);0,38;0,61;0,37;0,50;61,80%;-38,48%;33,96%;Melhora em 2023 e 2025
+Atma S.A.;ATMP3;08/06/2022;Capital Circulante Líquido (CCL = AC - PC);R$ milhões;-335,10;-198,10;-456,90;-294,50;-40,88%;130,64%;-35,54%;CCL negativo em todos os anos
+Atma S.A.;ATMP3;08/06/2022;Participação Cap. Terceiros (PCT = PT / PL);Índice (x);-4,93;2,83;-5,82;9,27;-157,32%;-305,70%;-259,39%;Sinal negativo em 22 e 24 por PL < 0
+Atma S.A.;ATMP3;08/06/2022;Endividamento Geral (EG = PT / AT);Percentual (%);125,42%;73,87%;120,76%;90,26%;-41,10%;63,47%;-25,26%;EG > 100% confirma Passivo a Descoberto
+Atma S.A.;ATMP3;08/06/2022;ROA (EBIT / AT);Percentual (%);-8,34%;16,68%;-9,90%;-1,05%;-300,08%;-159,35%;-89,39%;Livre de distorção do PL
+Atma S.A.;ATMP3;08/06/2022;ROE (LL / PL);Percentual (%);82,87%;30,48%;104,52%;-75,54%;-63,22%;242,87%;-172,28%;ALERTA: 2022 e 2024 são FALSOS POSITIVOS (LL<0 e PL<0)
+Atma S.A.;ATMP3;08/06/2022;Margem Líquida (LL / RL);Percentual (%);-63,34%;28,70%;-88,68%;-19,41%;-145,31%;-408,97%;-78,11%;Redução do prejuízo relativo em 2025
+Atma S.A.;ATMP3;08/06/2022;Margem EBITDA (EBITDA / RL);Percentual (%);-13,81%;-6,01%;2,09%;6,62%;-56,50%;-134,73%;217,34%;Evolução operacional consistente (2022->2025)
+Rossi Residencial;RSID3;21/09/2022;Ativo Circulante (AC);R$ milhões;159,90;125,80;165,70;148,90;-21,33%;31,72%;-10,14%;Balanço Patrimonial Consolidado
+Rossi Residencial;RSID3;21/09/2022;Caixa e Equivalentes de Caixa;R$ milhões;14,20;9,80;11,50;8,90;-30,99%;17,35%;-22,61%;Disponibilidades imediatas
+Rossi Residencial;RSID3;21/09/2022;Realizável a Longo Prazo (RLP);R$ milhões;182,50;148,20;112,40;131,20;-18,79%;-24,16%;16,73%;Contas a receber e imóveis LP
+Rossi Residencial;RSID3;21/09/2022;Ativo Permanente (Imob + Intang + Inv);R$ milhões;210,00;184,07;158,02;156,02;-12,35%;-14,15%;-1,27%;Investimentos em SPEs e imobilizado
+Rossi Residencial;RSID3;21/09/2022;Ativo Total (AT);R$ milhões;552,40;458,07;436,12;436,12;-17,08%;-4,79%;0,00%;AT = AC + RLP + Permanente
+Rossi Residencial;RSID3;21/09/2022;Passivo Circulante (PC);R$ milhões;412,30;318,40;345,20;310,20;-22,77%;8,42%;-10,14%;Obrigações CP e dívidas de curto prazo
+Rossi Residencial;RSID3;21/09/2022;Fornecedores;R$ milhões;28,40;21,60;24,10;22,80;-23,94%;11,57%;-5,39%;Fornecedores e empreiteiros
+Rossi Residencial;RSID3;21/09/2022;Passivo Não Circulante (PNC);R$ milhões;983,94;897,52;1003,58;1038,58;-8,78%;11,82%;3,49%;Dívidas concursais e provisões LP
+Rossi Residencial;RSID3;21/09/2022;Empréstimos e Financiamentos (CP + LP);R$ milhões;745,20;612,80;685,40;692,10;-17,77%;11,85%;0,98%;Dívida corporativa e SFH
+Rossi Residencial;RSID3;21/09/2022;Passivo Total Exigível (PT = PC + PNC);R$ milhões;1396,24;1215,92;1348,78;1348,78;-12,91%;10,93%;0,00%;Passivo total supera o ativo total
+Rossi Residencial;RSID3;21/09/2022;Patrimônio Líquido (PL);R$ milhões;-843,84;-757,85;-912,66;-912,66;-10,19%;20,43%;0,00%;Passivo a descoberto em todos os anos
+Rossi Residencial;RSID3;21/09/2022;Receita Líquida (RL);R$ milhões;9,92;146,36;25,85;25,85;1375,40%;-82,34%;0,00%;Oscilação por distratos e vendas de estoque
+Rossi Residencial;RSID3;21/09/2022;Resultado Operacional (EBIT);R$ milhões;-268,90;52,18;-83,60;-76,33;-119,41%;-260,21%;-8,70%;Positivo apenas em 2023 por efeitos da RJ
+Rossi Residencial;RSID3;21/09/2022;EBITDA (LAJIDA);R$ milhões;-268,00;52,35;-82,30;-76,11;-119,53%;-257,21%;-7,52%;Geração de caixa operacional negativa (exceto 23)
+Rossi Residencial;RSID3;21/09/2022;Despesas Financeiras Líquidas;R$ milhões;534,89;33,09;-71,96;-79,23;-93,81%;-317,47%;10,10%;2022/2023 com reversões/ajustes de dívida
+Rossi Residencial;RSID3;21/09/2022;Lucro / Prejuízo Líquido (LL);R$ milhões;265,99;85,27;-155,56;-155,56;-67,94%;-282,43%;0,00%;Lucro contábil em 22/23 e prejuízo em 24/25
+Rossi Residencial;RSID3;21/09/2022;Liquidez Corrente (LC = AC / PC);Índice (x);0,39;0,40;0,48;0,48;1,87%;21,49%;0,00%;Leve evolução, mas abaixo de 0,50
+Rossi Residencial;RSID3;21/09/2022;Liquidez Geral (LG = (AC+RLP)/(PC+PNC));Índice (x);0,25;0,23;0,21;0,21;-7,91%;-8,47%;0,53%;Baixa cobertura patrimonial global
+Rossi Residencial;RSID3;21/09/2022;Capital Circulante Líquido (CCL = AC - PC);R$ milhões;-252,40;-192,60;-179,50;-161,30;-23,69%;-6,80%;-10,14%;Redução gradual do déficit de giro
+Rossi Residencial;RSID3;21/09/2022;Participação Cap. Terceiros (PCT = PT / PL);Índice (x);-1,65;-1,60;-1,48;-1,48;-3,03%;-7,89%;0,00%;Negativo por Passivo a Descoberto (PL < 0)
+Rossi Residencial;RSID3;21/09/2022;Endividamento Geral (EG = PT / AT);Percentual (%);252,76%;265,44%;309,27%;309,27%;5,02%;16,51%;0,00%;Passivo equivale a mais de 3x o Ativo Total
+Rossi Residencial;RSID3;21/09/2022;ROA (EBIT / AT);Percentual (%);-48,68%;11,39%;-19,17%;-17,50%;-123,40%;-268,28%;-8,70%;Retorno operacional negativo em 22, 24 e 25
+Rossi Residencial;RSID3;21/09/2022;ROE (LL / PL);Percentual (%);-31,52%;-11,25%;17,04%;17,04%;-64,31%;-251,49%;0,00%;ALERTA: 22/23 negativos com lucro | 24/25 FALSOS POSITIVOS
+Rossi Residencial;RSID3;21/09/2022;Margem Líquida (LL / RL);Percentual (%);2681,35%;58,26%;-601,78%;-601,78%;-97,83%;-1132,91%;0,00%;Distorcida pela baixa receita e ajustes de dívida
+Rossi Residencial;RSID3;21/09/2022;Margem EBITDA (EBITDA / RL);Percentual (%);-2701,61%;35,77%;-318,38%;-294,43%;-101,32%;-990,12%;-7,52%;Operação consumidora de caixa em 24 e 25
+Paranapanema;PMAM3;30/11/2022;Ativo Circulante (AC);R$ milhões;565,80;397,90;397,92;200,04;-29,67%;0,01%;-49,73%;Forte contração de giro e estoques
+Paranapanema;PMAM3;30/11/2022;Caixa e Equivalentes de Caixa;R$ milhões;62,40;41,20;38,50;24,10;-33,97%;-6,55%;-37,40%;Restrição severa de liquidez imediata
+Paranapanema;PMAM3;30/11/2022;Realizável a Longo Prazo (RLP);R$ milhões;284,20;262,10;212,08;149,96;-7,78%;-19,08%;-29,29%;Créditos tributários e judiciais LP
+Paranapanema;PMAM3;30/11/2022;Ativo Permanente (Imob + Intang + Inv);R$ milhões;1140,00;1120,00;1020,00;860,00;-1,75%;-8,93%;-15,69%;Planta industrial metalúrgica depreciada
+Paranapanema;PMAM3;30/11/2022;Ativo Total (AT);R$ milhões;1990,00;1780,00;1630,00;1210,00;-10,55%;-8,43%;-25,77%;Encolhimento contínuo do ativo total
+Paranapanema;PMAM3;30/11/2022;Passivo Circulante (PC);R$ milhões;3480,00;3860,00;6260,00;7390,00;10,92%;62,18%;18,05%;Crescimento explosivo do passivo de curto prazo
+Paranapanema;PMAM3;30/11/2022;Fornecedores;R$ milhões;412,50;385,00;490,20;510,40;-6,67%;27,32%;4,12%;Fornecedores de cobre e insumos
+Paranapanema;PMAM3;30/11/2022;Passivo Não Circulante (PNC);R$ milhões;1330,00;2140,00;1660,00;1360,00;60,90%;-22,43%;-18,07%;Obrigações concursais e provisões LP
+Paranapanema;PMAM3;30/11/2022;Empréstimos e Financiamentos (CP + LP);R$ milhões;3650,00;4520,00;5890,00;6720,00;23,84%;30,31%;14,09%;Aumento pelos encargos cambiais e juros
+Paranapanema;PMAM3;30/11/2022;Passivo Total Exigível (PT = PC + PNC);R$ milhões;4810,00;6000,00;7920,00;8750,00;24,74%;32,00%;10,48%;Escalada contínua do endividamento total
+Paranapanema;PMAM3;30/11/2022;Patrimônio Líquido (PL);R$ milhões;-2820,00;-4220,00;-6290,00;-7540,00;49,65%;49,05%;19,87%;Agravamento severo do Passivo a Descoberto
+Paranapanema;PMAM3;30/11/2022;Receita Líquida (RL);R$ milhões;2010,00;972,82;459,93;562,44;-51,60%;-52,72%;22,29%;Queda drástica de produção entre 2022 e 2024
+Paranapanema;PMAM3;30/11/2022;Resultado Operacional (EBIT);R$ milhões;-1410,00;-757,28;-439,36;-599,35;-46,29%;-41,98%;36,41%;Prejuízo operacional em todos os anos
+Paranapanema;PMAM3;30/11/2022;EBITDA (LAJIDA);R$ milhões;-1310,00;-659,09;-352,73;-519,59;-49,69%;-46,48%;47,31%;EBITDA negativo em toda a série
+Paranapanema;PMAM3;30/11/2022;Despesas Financeiras Líquidas;R$ milhões;-1290,00;-632,72;-1700,64;-730,65;-50,95%;168,78%;-57,04%;Forte peso de juros e variação cambial
+Paranapanema;PMAM3;30/11/2022;Lucro / Prejuízo Líquido (LL);R$ milhões;-2700,00;-1390,00;-2140,00;-1330,00;-48,52%;53,96%;-37,85%;Prejuízos bilionários consecutivos
+Paranapanema;PMAM3;30/11/2022;Liquidez Corrente (LC = AC / PC);Índice (x);0,16;0,10;0,06;0,03;-36,60%;-38,34%;-57,42%;Deterioração aguda da liquidez de curto prazo
+Paranapanema;PMAM3;30/11/2022;Liquidez Geral (LG = (AC+RLP)/(PC+PNC));Índice (x);0,18;0,11;0,08;0,04;-37,75%;-29,98%;-48,08%;Insolvência estrutural severa
+Paranapanema;PMAM3;30/11/2022;Capital Circulante Líquido (CCL = AC - PC);R$ milhões;-2914,20;-3462,10;-5862,08;-7189,96;18,80%;69,32%;22,65%;Explosão do hiato negativo de capital de giro
+Paranapanema;PMAM3;30/11/2022;Participação Cap. Terceiros (PCT = PT / PL);Índice (x);-1,71;-1,42;-1,26;-1,16;-16,64%;-11,44%;-7,83%;Negativo em toda a série por PL < 0
+Paranapanema;PMAM3;30/11/2022;Endividamento Geral (EG = PT / AT);Percentual (%);241,71%;337,08%;485,89%;723,14%;39,46%;44,15%;48,83%;Passivo atinge 7,23x o Ativo Total em 2025
+Paranapanema;PMAM3;30/11/2022;ROA (EBIT / AT);Percentual (%);-70,85%;-42,54%;-26,95%;-49,53%;-39,96%;-36,65%;83,77%;Forte destruição operacional sobre o ativo
+Paranapanema;PMAM3;30/11/2022;ROE (LL / PL);Percentual (%);95,74%;32,94%;34,02%;17,64%;-65,60%;3,29%;-48,15%;CASO CLÁSSICO: 100% FALSO POSITIVO (Prejuízo / PL Negativo)
+Paranapanema;PMAM3;30/11/2022;Margem Líquida (LL / RL);Percentual (%);-134,33%;-142,88%;-465,29%;-236,47%;6,37%;225,64%;-49,18%;Prejuízo supera a própria receita líquida
+Paranapanema;PMAM3;30/11/2022;Margem EBITDA (EBITDA / RL);Percentual (%);-65,17%;-67,75%;-76,69%;-92,38%;3,95%;13,20%;20,46%;Comprova que a operação ainda queima caixa
+Americanas S.A.;AMER3;19/01/2023;Ativo Circulante (AC);R$ milhões;11420,00;6850,00;6420,00;6180,00;-40,02%;-6,28%;-3,74%;Redimensionamento de estoques e recebíveis
+Americanas S.A.;AMER3;19/01/2023;Caixa e Equivalentes de Caixa;R$ milhões;2850,00;1920,00;2140,00;1980,00;-32,63%;11,46%;-7,48%;Preservação de caixa pós-DIP e capitalização
+Americanas S.A.;AMER3;19/01/2023;Realizável a Longo Prazo (RLP);R$ milhões;4280,00;2940,00;2680,00;2750,00;-31,31%;-8,84%;2,61%;Tributos diferidos e depósitos judiciais
+Americanas S.A.;AMER3;19/01/2023;Ativo Permanente (Imob + Intang + Inv);R$ milhões;11420,00;7680,00;7150,00;7320,00;-32,75%;-6,90%;2,38%;Baixa (impairment) de intangíveis e lojas
+Americanas S.A.;AMER3;19/01/2023;Ativo Total (AT);R$ milhões;27120,00;17470,00;16250,00;16250,00;-35,58%;-6,98%;0,00%;Estabilização do porte em 2024-2025
+Americanas S.A.;AMER3;19/01/2023;Passivo Circulante (PC);R$ milhões;34250,00;36820,00;5120,00;4850,00;7,50%;-86,09%;-5,27%;Queda drástica em 2024 após quitação/conversão do PRJ
+Americanas S.A.;AMER3;19/01/2023;Fornecedores;R$ milhões;5840,00;3120,00;2650,00;2580,00;-46,58%;-15,06%;-2,64%;Normalização com fornecedores pós-acordo
+Americanas S.A.;AMER3;19/01/2023;Passivo Não Circulante (PNC);R$ milhões;19540,00;9500,00;6370,00;6640,00;-51,38%;-32,95%;4,24%;Debêntures repactuadas e arrendamentos LP
+Americanas S.A.;AMER3;19/01/2023;Empréstimos e Financiamentos (CP + LP);R$ milhões;39820,00;37450,00;4980,00;4820,00;-5,95%;-86,70%;-3,21%;Forte desalavancagem via haircut e capitalização em 2024
+Americanas S.A.;AMER3;19/01/2023;Passivo Total Exigível (PT = PC + PNC);R$ milhões;53790,00;46320,00;11490,00;11490,00;-13,89%;-75,19%;0,00%;Redução de R$ 34,8 bi no passivo em 2024
+Americanas S.A.;AMER3;19/01/2023;Patrimônio Líquido (PL);R$ milhões;-26670,00;-28850,00;4760,00;4760,00;8,17%;-116,50%;0,00%;Reversão do Passivo a Descoberto em 2024!
+Americanas S.A.;AMER3;19/01/2023;Receita Líquida (RL);R$ milhões;25820,00;14760,00;12450,00;12310,00;-42,83%;-15,65%;-1,12%;Foco em lojas físicas rentáveis
+Americanas S.A.;AMER3;19/01/2023;Resultado Operacional (EBIT);R$ milhões;-7840,00;-1420,00;380,00;410,00;-81,89%;-126,76%;7,89%;Retorno ao lucro operacional em 2024 e 2025
+Americanas S.A.;AMER3;19/01/2023;EBITDA (LAJIDA);R$ milhões;-6120,00;-480,00;1120,00;1180,00;-92,16%;-333,33%;5,36%;Recomposição consistente do EBITDA
+Americanas S.A.;AMER3;19/01/2023;Despesas Financeiras Líquidas;R$ milhões;-5380,00;-850,00;7900,00;-681,00;-84,20%;-1029,41%;-108,62%;2024 positivo pelo ganho contábil de deságio (haircut)
+Americanas S.A.;AMER3;19/01/2023;Lucro / Prejuízo Líquido (LL);R$ milhões;-13220,00;-2270,00;8280,00;-271,00;-82,83%;-464,76%;-103,27%;Lucro extraordinário em 2024 | prejuízo leve em 2025
+Americanas S.A.;AMER3;19/01/2023;Liquidez Corrente (LC = AC / PC);Índice (x);0,33;0,19;1,25;1,27;-44,21%;573,96%;1,62%;Recuperou liquidez (LC > 1,00) a partir de 2024
+Americanas S.A.;AMER3;19/01/2023;Liquidez Geral (LG = (AC+RLP)/(PC+PNC));Índice (x);0,29;0,21;0,79;0,78;-27,59%;274,77%;-1,87%;Salto estrutural de solvência pós-PRJ
+Americanas S.A.;AMER3;19/01/2023;Capital Circulante Líquido (CCL = AC - PC);R$ milhões;-22830,00;-29970,00;1300,00;1330,00;31,27%;-104,34%;2,31%;CCL tornou-se positivo em 2024 e 2025!
+Americanas S.A.;AMER3;19/01/2023;Participação Cap. Terceiros (PCT = PT / PL);Índice (x);-2,02;-1,61;2,41;2,41;-20,40%;-250,34%;0,00%;Passou a positivo normal em 2024 com PL > 0
+Americanas S.A.;AMER3;19/01/2023;Endividamento Geral (EG = PT / AT);Percentual (%);198,34%;265,14%;70,71%;70,71%;33,68%;-73,33%;0,00%;Reduziu de 265% para 70,7% (saneamento patrimonial)
+Americanas S.A.;AMER3;19/01/2023;ROA (EBIT / AT);Percentual (%);-28,91%;-8,13%;2,34%;2,52%;-71,88%;-128,77%;7,89%;Inversão positiva genuína do ROA em 24 e 25
+Americanas S.A.;AMER3;19/01/2023;ROE (LL / PL);Percentual (%);49,57%;7,87%;173,95%;-5,69%;-84,13%;2110,79%;-103,27%;ALERTA: 2022 e 2023 eram FALSOS POSITIVOS (LL<0 e PL<0)
+Americanas S.A.;AMER3;19/01/2023;Margem Líquida (LL / RL);Percentual (%);-51,20%;-15,38%;66,51%;-2,20%;-69,96%;-532,44%;-103,31%;2024 inflada por deságio | 2025 próxima do equilíbrio
+Americanas S.A.;AMER3;19/01/2023;Margem EBITDA (EBITDA / RL);Percentual (%);-23,70%;-3,25%;9,00%;9,59%;-86,28%;-376,63%;6,56%;Comprova o turnaround operacional (margem de 9,6%)
+Nexpe Participações;NEXP3;14/02/2023;Ativo Circulante (AC);R$ milhões;34,20;28,50;12,40;3,80;-16,67%;-56,49%;-69,35%;Desmobilização de ativos e venda de UPIs
+Nexpe Participações;NEXP3;14/02/2023;Caixa e Equivalentes de Caixa;R$ milhões;4,80;3,10;1,90;0,85;-35,42%;-38,71%;-55,26%;Caixa mínimo para manutenção societária
+Nexpe Participações;NEXP3;14/02/2023;Realizável a Longo Prazo (RLP);R$ milhões;18,60;16,40;8,20;3,10;-11,83%;-50,00%;-62,20%;Recebíveis de longo prazo
+Nexpe Participações;NEXP3;14/02/2023;Ativo Permanente (Imob + Intang + Inv);R$ milhões;67,23;69,75;15,96;4,00;3,75%;-77,12%;-74,94%;Baixa de ágio e alienação de marcas imobiliárias
+Nexpe Participações;NEXP3;14/02/2023;Ativo Total (AT);R$ milhões;120,03;114,65;36,56;10,90;-4,48%;-68,11%;-70,19%;Forte contração da estrutura patrimonial
+Nexpe Participações;NEXP3;14/02/2023;Passivo Circulante (PC);R$ milhões;82,40;88,20;46,80;42,50;7,04%;-46,94%;-9,19%;Obrigações trabalhistas, fiscais e operacionais CP
+Nexpe Participações;NEXP3;14/02/2023;Fornecedores;R$ milhões;11,20;9,40;4,80;2,10;-16,07%;-48,94%;-56,25%;Redução proporcional à queda de atividade
+Nexpe Participações;NEXP3;14/02/2023;Passivo Não Circulante (PNC);R$ milhões;110,93;121,85;61,96;71,35;9,84%;-49,15%;15,15%;Passivos concursais e contingências LP
+Nexpe Participações;NEXP3;14/02/2023;Empréstimos e Financiamentos (CP + LP);R$ milhões;98,50;104,20;52,30;48,90;5,79%;-49,81%;-6,50%;Debêntures e dívidas bancárias em reestruturação
+Nexpe Participações;NEXP3;14/02/2023;Passivo Total Exigível (PT = PC + PNC);R$ milhões;193,33;210,05;108,76;113,85;8,65%;-48,22%;4,68%;Passivo exigível 10x maior que o ativo em 2025
+Nexpe Participações;NEXP3;14/02/2023;Patrimônio Líquido (PL);R$ milhões;-73,30;-95,40;-72,20;-102,95;30,15%;-24,32%;42,59%;Passivo a descoberto crônico em toda a série
+Nexpe Participações;NEXP3;14/02/2023;Receita Líquida (RL);R$ milhões;94,49;115,38;51,46;0,66;22,11%;-55,40%;-98,72%;Quase paralisação operacional após venda de UPIs em 2025
+Nexpe Participações;NEXP3;14/02/2023;Resultado Operacional (EBIT);R$ milhões;-118,40;-29,80;-14,20;-8,50;-74,83%;-52,35%;-40,14%;Prejuízo operacional contínuo
+Nexpe Participações;NEXP3;14/02/2023;EBITDA (LAJIDA);R$ milhões;-109,20;-22,40;-11,10;-7,90;-79,49%;-50,45%;-28,83%;EBITDA negativo em todos os anos
+Nexpe Participações;NEXP3;14/02/2023;Despesas Financeiras Líquidas;R$ milhões;-32,34;-18,21;-7,60;116,05;-43,69%;-58,26%;-1626,97%;2025 positivo por reversão/deságio contábil de passivos
+Nexpe Participações;NEXP3;14/02/2023;Lucro / Prejuízo Líquido (LL);R$ milhões;-150,74;-48,01;-21,80;107,55;-68,15%;-54,59%;-593,35%;Lucro contábil em 2025 sem lastro em receita operacional
+Nexpe Participações;NEXP3;14/02/2023;Liquidez Corrente (LC = AC / PC);Índice (x);0,42;0,32;0,26;0,09;-22,15%;-18,00%;-66,25%;Colapso da liquidez corrente em 2025 (0,09)
+Nexpe Participações;NEXP3;14/02/2023;Liquidez Geral (LG = (AC+RLP)/(PC+PNC));Índice (x);0,27;0,21;0,19;0,06;-21,72%;-11,42%;-68,02%;Ativos totais realizáveis cobrem apenas 6% das dívidas
+Nexpe Participações;NEXP3;14/02/2023;Capital Circulante Líquido (CCL = AC - PC);R$ milhões;-48,20;-59,70;-34,40;-38,70;23,86%;-42,38%;12,50%;CCL persistentemente negativo
+Nexpe Participações;NEXP3;14/02/2023;Participação Cap. Terceiros (PCT = PT / PL);Índice (x);-2,64;-2,20;-1,51;-1,11;-16,52%;-31,58%;-26,59%;Negativo em toda a série por PL < 0
+Nexpe Participações;NEXP3;14/02/2023;Endividamento Geral (EG = PT / AT);Percentual (%);161,07%;183,21%;297,48%;1044,50%;13,75%;62,37%;251,11%;Endividamento atinge 1.044,5% do Ativo Total em 2025
+Nexpe Participações;NEXP3;14/02/2023;ROA (EBIT / AT);Percentual (%);-98,64%;-25,99%;-38,84%;-77,98%;-73,65%;49,43%;100,78%;Destruição operacional severa
+Nexpe Participações;NEXP3;14/02/2023;ROE (LL / PL);Percentual (%);205,65%;50,32%;30,19%;-104,47%;-75,53%;-40,00%;-446,00%;ALERTA: 22, 23 e 24 são FALSOS POSITIVOS | 25 negativo com lucro!
+Nexpe Participações;NEXP3;14/02/2023;Margem Líquida (LL / RL);Percentual (%);-159,53%;-41,61%;-42,36%;16295,45%;-73,92%;1,81%;-38566,18%;2025 distorcido por ganho financeiro com receita quase zero
+Nexpe Participações;NEXP3;14/02/2023;Margem EBITDA (EBITDA / RL);Percentual (%);-115,57%;-19,41%;-21,57%;-1196,97%;-83,20%;11,11%;5449,21%;Evidencia que a operação é deficitária (sem geração de caixa)
+Light S.A.;LIGT3;12/05/2023;Ativo Circulante (AC);R$ milhões;6840,00;6120,00;6950,00;7420,00;-10,53%;13,56%;6,76%;Forte posição de caixa e recebíveis de energia
+Light S.A.;LIGT3;12/05/2023;Caixa e Equivalentes de Caixa;R$ milhões;2180,00;1950,00;2480,00;2690,00;-10,55%;27,18%;8,47%;Preservação de caixa durante o stay period
+Light S.A.;LIGT3;12/05/2023;Realizável a Longo Prazo (RLP);R$ milhões;5420,00;5890,00;6120,00;6480,00;8,67%;3,90%;5,88%;Ativos financeiros setoriais e indenizáveis da concessão
+Light S.A.;LIGT3;12/05/2023;Ativo Permanente (Imob + Intang + Inv);R$ milhões;11460,00;13330,00;12660,00;14380,00;16,32%;-5,03%;13,59%;Infraestrutura de distribuição e geração
+Light S.A.;LIGT3;12/05/2023;Ativo Total (AT);R$ milhões;23720,00;25340,00;25730,00;28280,00;6,83%;1,54%;9,91%;Crescimento consistente da base de ativos
+Light S.A.;LIGT3;12/05/2023;Passivo Circulante (PC);R$ milhões;8950,00;14120,00;6480,00;5920,00;57,77%;-54,11%;-8,64%;Pico em 2023 (vencimento antecipado) e queda em 24 pós-PRJ
+Light S.A.;LIGT3;12/05/2023;Fornecedores;R$ milhões;2450,00;2680,00;2520,00;2610,00;9,39%;-5,97%;3,57%;Compra de energia elétrica para revenda
+Light S.A.;LIGT3;12/05/2023;Passivo Não Circulante (PNC);R$ milhões;11670,00;6000,00;13800,00;13630,00;-48,59%;130,00%;-1,23%;Reclassificação para LP em 2024 após homologação do plano
+Light S.A.;LIGT3;12/05/2023;Empréstimos e Financiamentos (CP + LP);R$ milhões;11420,00;11680,00;9850,00;9120,00;2,28%;-15,67%;-7,41%;Debêntures e dívidas reestruturadas no PRJ
+Light S.A.;LIGT3;12/05/2023;Passivo Total Exigível (PT = PC + PNC);R$ milhões;20620,00;20120,00;20280,00;19550,00;-2,42%;0,80%;-3,60%;Redução gradual do passivo total
+Light S.A.;LIGT3;12/05/2023;Patrimônio Líquido (PL);R$ milhões;3100,00;5220,00;5450,00;8730,00;68,39%;4,41%;60,18%;Única empresa da amostra com PL > 0 em todos os anos!
+Light S.A.;LIGT3;12/05/2023;Receita Líquida (RL);R$ milhões;14120,00;14880,00;14990,00;15030,00;5,38%;0,74%;0,27%;Receita regulada resiliente e crescente
+Light S.A.;LIGT3;12/05/2023;Resultado Operacional (EBIT);R$ milhões;-3420,00;1120,00;1680,00;1540,00;-132,75%;50,00%;-8,33%;Forte geração operacional positiva a partir de 2023
+Light S.A.;LIGT3;12/05/2023;EBITDA (LAJIDA);R$ milhões;-2150,00;1980,00;2540,00;2420,00;-192,09%;28,28%;-4,72%;Sólida geração de caixa operacional (acima de R$ 2,4 bi)
+Light S.A.;LIGT3;12/05/2023;Despesas Financeiras Líquidas;R$ milhões;-2250,00;-864,84;-40,00;-1326,90;-61,56%;-95,37%;3217,25%;2024 beneficiado pelos ajustes do plano de recuperação
+Light S.A.;LIGT3;12/05/2023;Lucro / Prejuízo Líquido (LL);R$ milhões;-5670,00;255,16;1640,00;213,10;-104,50%;542,73%;-87,01%;Três exercícios consecutivos de Lucro Líquido (2023-2025)
+Light S.A.;LIGT3;12/05/2023;Liquidez Corrente (LC = AC / PC);Índice (x);0,76;0,43;1,07;1,25;-43,29%;147,44%;16,85%;Superou 1,00 em 2024 (1,07) e 2025 (1,25)
+Light S.A.;LIGT3;12/05/2023;Liquidez Geral (LG = (AC+RLP)/(PC+PNC));Índice (x);0,59;0,60;0,64;0,71;0,39%;7,98%;10,32%;Evolução contínua da solvência global
+Light S.A.;LIGT3;12/05/2023;Capital Circulante Líquido (CCL = AC - PC);R$ milhões;-2110,00;-8000,00;470,00;1500,00;279,15%;-105,88%;219,15%;Reversão para CCL positivo robusto em 2024 e 2025
+Light S.A.;LIGT3;12/05/2023;Participação Cap. Terceiros (PCT = PT / PL);Índice (x);6,65;3,85;3,72;2,24;-42,05%;-3,46%;-39,82%;Queda consistente da alavancagem (sem distorção de sinal)
+Light S.A.;LIGT3;12/05/2023;Endividamento Geral (EG = PT / AT);Percentual (%);86,93%;79,40%;78,82%;69,13%;-8,66%;-0,73%;-12,29%;Redução exemplar do endividamento geral (de 87% para 69%)
+Light S.A.;LIGT3;12/05/2023;ROA (EBIT / AT);Percentual (%);-14,42%;4,42%;6,53%;5,45%;-130,65%;47,73%;-16,60%;Rentabilidade operacional positiva e estável
+Light S.A.;LIGT3;12/05/2023;ROE (LL / PL);Percentual (%);-182,90%;4,89%;30,09%;2,44%;-102,67%;515,61%;-91,89%;ROE genuinamente positivo (Lucro > 0 e PL > 0) em 23, 24 e 25
+Light S.A.;LIGT3;12/05/2023;Margem Líquida (LL / RL);Percentual (%);-40,16%;1,71%;10,94%;1,42%;-104,27%;538,03%;-87,04%;Margens líquidas positivas pós-pedido de RJ
+Light S.A.;LIGT3;12/05/2023;Margem EBITDA (EBITDA / RL);Percentual (%);-15,23%;13,31%;16,94%;16,10%;-187,39%;27,34%;-4,98%;Alta capacidade de geração de caixa (~16% da receita)
